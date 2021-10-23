@@ -1,0 +1,23 @@
+{
+    "name": "tocamelcase",
+    "version": "1.0.0",
+    "description": "LoadBootStrapElementsToCamelCaseById",
+    "main": "LoadBootStrapElementsToCamelCaseById.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node LoadBootStrapElementsToCamelCaseById"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mazocelo/LoadBootStrapElementsToCamelCaseById.git"
+    },
+    "author": "Marcelo Mazarem",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/mazocelo/LoadBootStrapElementsToCamelCaseById/issues"
+    },
+    "homepage": "https://github.com/mazocelo/LoadBootStrapElementsToCamelCaseById#readme",
+    "dependencies": {
+        "readline": "^1.3.0"
+    }
+}
